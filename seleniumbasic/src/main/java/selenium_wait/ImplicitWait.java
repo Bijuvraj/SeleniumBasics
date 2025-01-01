@@ -1,4 +1,4 @@
-package selenium_wait;
+ package selenium_wait;
 
 import java.time.Duration;
 
